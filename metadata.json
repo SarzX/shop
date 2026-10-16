@@ -1,0 +1,6 @@
+{
+  "name": "NØRTH — Independent Uniform & Modern Outerwear",
+  "description": "NØRTH Fall / Winter 2025 collection. Heavyweight outerwear, graphic tees, relaxed denim, and interactive fashion showcases.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
